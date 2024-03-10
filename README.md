@@ -1,2 +1,2 @@
 # MIS
-for practice with dbs
+for practice with db
